@@ -1,7 +1,7 @@
 import React from 'react';
 import moment from 'moment';
 
-// The match: https://www.hltv.org/matches/2352820/natus-vincere-vs-vitality-blast-premier-fall-final-2021 
+// The match: https://www.hltv.org/matches/2352820/natus-vincere-vs-vitality-blast-premier-fall-final-2021
 
 interface MatchLine {
     isPlayer: boolean;
